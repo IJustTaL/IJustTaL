@@ -32,6 +32,44 @@
 
 </p>
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IJustTaL&theme=transparent&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJustTaL&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=IJustTaL&theme=transparent&hide_border=true"/>
+
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IJustTaL&theme=github-compact"/>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CTCube-Plugin-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CTCore-Plugin-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CTStorage-Plugin-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CTSafeZone-Plugin-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RexoCraft-Server-green?style=for-the-badge">
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00C9FF,100:92FE9D"/>
+
 # 💫 About Me
 
 🎮 Minecraft Server Developer
