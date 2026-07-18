@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=IJustTaL&style=for-the-badge&color=blueviolet">
