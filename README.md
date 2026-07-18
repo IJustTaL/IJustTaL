@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hey, I'm Erfan
@@ -19,7 +18,6 @@
 
 # 💜 About Me
 
-```yaml
 Name: Erfan
 Age: 18
 Role: Minecraft Developer
@@ -35,7 +33,6 @@ Language:
   - SQL
 
 Location: Iran
-```
 
 ---
 
@@ -86,11 +83,9 @@ https://craft-tech.ir
 
 ### Contact
 
-```text
 Discord   : w_erfan_86
 Instagram : @w_erfan_86
 Telegram  : @TriNyte
-```
 
 ---
 
@@ -141,4 +136,3 @@ Telegram  : @TriNyte
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6">
 
 </div>
-````
