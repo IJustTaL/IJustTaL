@@ -33,9 +33,9 @@
 ### 🔌 Plugins
 | Project | Description |
 |---|---|
-| **CTCube** | Advanced SkyMine plugin with custom island mechanics |
-| **CTStorage** | Advanced SkyMine plugin with custom island mechanics |
-| **CTSafeZone** | Advanced SkyMine plugin with custom island mechanics |
+| **CTCube** | Advanced cube management plugin |
+| **CTStorage** | Virtual storage plugin |
+| **CTSafeZone** | SafeZone management plugin |
 | ➕ **And more...** | Private projects |
 
 ### 🌍 Servers
@@ -48,19 +48,7 @@
 
 ## 🌐 Contact
 
-<p align="center">
-<a href="https://discord.com/users/w_erfan_86">
-<img src="https://img.shields.io/badge/Discord-w__erfan__86-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://instagram.com/w_erfan_86">
-<img src="https://img.shields.io/badge/Instagram-w__erfan__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://t.me/TriNyte">
-<img src="https://img.shields.io/badge/Telegram-@TriNyte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-w_erfan_86-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ---
 
