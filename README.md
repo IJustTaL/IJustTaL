@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Erfan&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,100:2563EB&text=Hi,%20I'm%20Erfan&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Minecraft+Developer;Discord+Bot+Developer;Java+Developer;Backend+Developer"/>
+<h2>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Welcome to my GitHub Profile
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Minecraft+Developer;Discord+Bot+Developer;Java+Backend+Developer;Building+Awesome+Projects"/>
 
 </div>
 
