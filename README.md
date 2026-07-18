@@ -8,8 +8,8 @@
 
 ### 💜 Minecraft Server & Plugin Developer • Discord Bot Developer
 
-[![Views](https://komarev.com/ghpvc/?username=IJustTaL&color=8A2BE2&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Views](https://komarev.com/ghpvc/?username=IJustTaL&color=8A2BE2&style=for-the-badge)]()
 [![Paper](https://img.shields.io/badge/Paper-API-8A2BE2?style=for-the-badge)]()
 [![Velocity](https://img.shields.io/badge/Velocity-Proxy-8A2BE2?style=for-the-badge)]()
 [![GitHub followers](https://img.shields.io/github/followers/IJustTaL?style=for-the-badge&color=8A2BE2)]()
