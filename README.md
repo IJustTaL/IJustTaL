@@ -67,6 +67,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IJustTaL&theme=github-dark&bg_color=0D1117&color=D1D5DB&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&hide_border=true"/>
 </p>
 
+<div align="center">
+
+## 💜 Thanks for visiting
+
+If you enjoyed my projects, don't forget to ⭐ them!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java+Developer;Minecraft+Plugin+Developer;Discord+Bot+Developer;Thanks+for+stopping+by!"/>
+
+</div>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&color2=4B5563&section=footer"/>
 </p>
