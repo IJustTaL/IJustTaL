@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<br><br>
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-w__erfan__86-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w_erfan_86)
 [![Telegram](https://img.shields.io/badge/Telegram-@TriNyte-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TriNyte)
