@@ -23,7 +23,7 @@
 - 🎂 18 Years Old
 - ⚙️ Minecraft Server & Plugin Developer
 - 🤖 Discord Bot Developer
-- 👑 Manager at **CraftTech**
+- 👑 Founder of **CraftTech**
 - 💜 Passionate about Java & Backend Development
 
 ---
