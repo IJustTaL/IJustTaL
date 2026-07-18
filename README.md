@@ -24,6 +24,22 @@
 
 </p>
 
+<p align="center">
+
+<a href="https://github.com/IJustTaL">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=java"/>
+</a>
+
+</p>
+
 ---
 
 # 💫 About Me
