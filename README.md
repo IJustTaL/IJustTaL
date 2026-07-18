@@ -8,8 +8,12 @@
 
 ### 💜 Minecraft Server & Plugin Developer • Discord Bot Developer
 
-<img src="https://img.shields.io/github/followers/IJustTaL?logo=github&style=for-the-badge&color=8B5CF6&labelColor=2B2B2B">
-<img src="https://komarev.com/ghpvc/?username=IJustTaL&style=for-the-badge&color=8B5CF6&labelColor=2B2B2B">
+[![Views](https://komarev.com/ghpvc/?username=OZyroX086&color=08ceff&style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Paper](https://img.shields.io/badge/Paper-API-2C2D72?style=for-the-badge)]()
+[![Velocity](https://img.shields.io/badge/Velocity-Proxy-1BA94C?style=for-the-badge)]()
+[![GitHub followers](https://img.shields.io/github/followers/OZyroX086?style=for-the-badge&color=blue)]()
 
 </div>
 
