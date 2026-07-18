@@ -9,7 +9,7 @@
 ### 💜 Minecraft Server & Plugin Developer • Discord Bot Developer
 
 <img src="https://img.shields.io/github/followers/IJustTaL?logo=github&style=for-the-badge&color=8B5CF6&labelColor=2B2B2B">
-<img src="https://komarev.com/ghpvc/?username=IJustTaL&color=8B5CF6&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=IJustTaL&style=for-the-badge&color=8B5CF6&labelColor=2B2B2B">
 
 </div>
 
