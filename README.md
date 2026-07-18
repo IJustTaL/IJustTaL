@@ -6,6 +6,22 @@
 
 </div>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=IJustTaL&style=for-the-badge&color=blueviolet">
+
+<img src="https://img.shields.io/github/followers/IJustTaL?logo=github&style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/IJustTaL?affiliations=OWNER&style=for-the-badge">
+
+<img src="https://img.shields.io/github/last-commit/IJustTaL/IJustTaL?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Age-18-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk">
+
+</p>
+
 ---
 
 # 💫 About Me
