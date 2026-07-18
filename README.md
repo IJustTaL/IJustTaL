@@ -104,7 +104,7 @@ Telegram  : @TriNyte
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=master-cblock&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakNum=D1D5DB&sideNums=9CA3AF&currStreakLabel=A855F7&sideLabels=D1D5DB&dates=6B7280"/>
+  <img src="https://streak-stats.demolab.com?user=master-cblock&theme=transparent&hide_border=true&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakNum=D1D5DB&sideNums=9CA3AF&currStreakLabel=A855F7&sideLabels=D1D5DB&dates=6B7280" />
 </p>
 
 ---
