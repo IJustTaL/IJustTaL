@@ -61,9 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-cblock&theme=github-dark&bg_color=0D1117&color=D1D5DB&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IJustTaL&theme=github-dark&bg_color=0D1117&color=D1D5DB&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&hide_border=true"/>
 </p>
