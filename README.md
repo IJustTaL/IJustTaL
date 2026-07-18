@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Minecraft+Plugin+Developer;Minecraft+Server+Developer;Discord+Bot+Developer;Java+Developer;Always+Building+Something+Awesome!" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00bfff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=IJustTaL&label=Profile+Views&color=00bfff&style=for-the-badge"/>
 
 </div>
 
@@ -70,9 +70,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IJustTaL&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJustTaL&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=IJustTaL&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IJustTaL&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IJustTaL&theme=tokyo-night"/>
 
 </p>
 
@@ -122,7 +122,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/IJustTaL">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
