@@ -1,10 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Erfan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Erfan&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Minecraft+Plugin+Developer;Minecraft+Server+Developer;Discord+Bot+Developer;Java+Developer;Always+Building+Something+Awesome!" />
-
-<img src="https://komarev.com/ghpvc/?username=IJustTaL&label=Profile+Views&color=00bfff&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Minecraft+Developer;Discord+Bot+Developer;Java+Developer;Backend+Developer"/>
 
 </div>
 
