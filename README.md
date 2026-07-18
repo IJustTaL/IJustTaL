@@ -8,9 +8,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=8B5CF6&labelColor=2D2D2D">
-<img src="https://img.shields.io/github/following/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=A855F7&labelColor=2D2D2D">
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=7C3AED&labelColor=2D2D2D">
+<img src="https://img.shields.io/github/followers/IJustTaL?logo=github&style=for-the-badge&color=8B5CF6&labelColor=2D2D2D">
+<img src="https://img.shields.io/github/following/IJustTaL?logo=github&style=for-the-badge&color=A855F7&labelColor=2D2D2D">
+<img src="https://img.shields.io/github/stars/IJustTaL?affiliations=OWNER&style=for-the-badge&color=7C3AED&labelColor=2D2D2D">
 
 </div>
 
@@ -103,21 +103,21 @@ Telegram  : @TriNyte
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IJustTaL&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJustTaL&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=IJustTaL&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IJustTaL&theme=github-compact"/>
 
 ---
 
@@ -133,6 +133,6 @@ Telegram  : @TriNyte
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6">
+<img src="https://komarev.com/ghpvc/?username=IJustTaL&style=for-the-badge&color=8B5CF6">
 
 </div>
