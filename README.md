@@ -52,10 +52,6 @@
 <a href="https://t.me/TriNyte">
 <img src="https://img.shields.io/badge/Telegram-@TriNyte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-<a href="https://craft-tech.ir">
-<img src="https://img.shields.io/badge/CraftTech-craft--tech.ir-8B5CF6?style=for-the-badge">
-</a>
 </p>
 
 ---
