@@ -48,7 +48,9 @@
 
 ## 🌐 Contact
 
-[![Discord](https://img.shields.io/badge/Discord-w_erfan_86-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-w__erfan__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w_erfan_86)
+[![Telegram](https://img.shields.io/badge/Telegram-@TriNyte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TriNyte)
+[![Discord](https://img.shields.io/badge/Discord-w__erfan__86-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ---
 
