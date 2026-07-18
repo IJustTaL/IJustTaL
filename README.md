@@ -28,16 +28,23 @@
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 ### 🔌 Plugins
-- CTCube
-- CTStorage
-- CTSafeZone
+| Project | Description |
+|---|---|
+| **CTCube** | Advanced SkyMine plugin with custom island mechanics |
+| **CTStorage** | Advanced SkyMine plugin with custom island mechanics |
+| **CTSafeZone** | Advanced SkyMine plugin with custom island mechanics |
+| ➕ **And more...** | Private projects |
 
 ### 🌍 Servers
-- **RexoCraft** — Developer
-- **FlameCraft** — Owner
+| Project | Role |
+|---|---|
+| **RexoCraft** | Developer |
+| **FlameCraft** | Owner |
+| **CTSafeZone** | Advanced SkyMine plugin with custom island mechanics |
+| ➕ **And more...** | Private projects |
 
 ---
 
