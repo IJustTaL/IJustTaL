@@ -43,8 +43,6 @@
 |---|---|
 | **RexoCraft** | Developer |
 | **FlameCraft** | Owner |
-| **CTSafeZone** | Advanced SkyMine plugin with custom island mechanics |
-| ➕ **And more...** | Private projects |
 
 ---
 
